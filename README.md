@@ -1,7 +1,7 @@
 # hashiSH
 yet another Hashicorp Vault client
 
-##Very early stage project
+## Very early stage project
 
 ### Usage example:
 ```bash
